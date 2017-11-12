@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=KalimbaBeaver
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
