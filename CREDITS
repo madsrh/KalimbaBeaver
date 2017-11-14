@@ -1,7 +1,6 @@
-battery-low
 bell
-button-pressed
-complete
+desktop-login
+desktop-login_alternative
 dialog-error
 dialog-question
 dialog-warning
@@ -9,4 +8,4 @@ message-new-instant
 service-login
 service-logout
         Copyright: Mads Rosendahl
-        License: CC-BY-SA
+        License: CC-BY-SA 3.0
