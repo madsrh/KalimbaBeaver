@@ -1,6 +1,6 @@
 # The KalimbaBeaver sound theme
 
-![Kalimba](https://upload.wikimedia.org/wikipedia/commons/5/5e/TrebleKalimba.jpg)
+![Kalimba](/banner.jpg)
 
 The KalimbaBeaver sound theme is a proposal for new default system sounds for Ubuntu 18.04.
 The intention was to create a cohesive set of sounds that will enhance the user experience without getting in the way. The KalimbaBeaver sounds are played on a kalimba to give the theme an african feeling. 
